@@ -1,0 +1,26 @@
+{
+  "name": "farah-profile",
+  "version": "1.0.0",
+  "description": "Submission Web Fundamental",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "http-server ./public/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/farahoktarina/web-fundamental.git"
+  },
+  "keywords": [
+    "html",
+    "css",
+    "javascript"
+  ],
+  "author": "Farah Oktarina",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/farahoktarina/web-fundamental/issues"
+  },
+  "homepage": "https://github.com/farahoktarina/web-fundamental#readme",
+  "dependencies": {}
+}
